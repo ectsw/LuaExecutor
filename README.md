@@ -1,12 +1,19 @@
-# LuaExecutor
-roblox lua executor
-using WeAreDevsAPI
-<br/>
-
-**STATUS : DOWN**
+# ECCENTRIC
+lua executor for roblox game 
 
 <br/>
 
-[video](https://www.youtube.com/watch?v=W3YrsR9q0nI)
+**STATUS : UP**
 
-![image](https://user-images.githubusercontent.com/47096657/187250992-76233673-f271-450c-ae0b-d3cc9c2a5aa8.png)
+<br/>
+
+
+<br/>
+we got both Thai and English version 
+download & get key at https://discord.gg/neEe4Y2rt7
+<br/>
+
+<br/>
+
+
+![ect](https://user-images.githubusercontent.com/47096657/194698831-9208ddef-e73e-4257-a310-42d2ed74ac28.PNG)
